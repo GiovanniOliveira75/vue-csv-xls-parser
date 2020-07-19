@@ -1,6 +1,6 @@
 {
   "name": "@giovannioliveira75/vue-xls-csv-parser",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "description": "VueJS Xls/CSV parser with ability to match required columns",
   "author": "Giovanni Oliveira",
   "main": "dist/xls-csv-parser.min.js",
@@ -93,15 +93,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/GiovanniOliveira75/vue-csv-xls-parser"
+    "url": "https://github.com/GiovanniOliveira75/vue-csv-xls-parser.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
-  },
-  "licenses": [
-    {
-      "type": "BSD",
-      "url": "https://github.com/AceMetrix/npm-license/blob/master/LICENSE"
-    }
-  ]
+  }
 }

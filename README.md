@@ -4,8 +4,6 @@
 
 This npm package will help you parse XLS/CSV files and validate them. The user will be asked to associate his file columns with the columns you require. Once validated, an event will be triggered where you will be able to get only the data you need.
 
-![Demo](wiki/demo.gif)
-
 ## Requirements
 
 You will need Bootstrap 3.x. It has not been tested yet with Boostrap 4.
